@@ -1,6 +1,6 @@
 ### Hi there 👋<h2> I'm Lucas</h2>
 
-<img align='right' src="https://i.gifer.com/3odR.gif" width="230">
+<img align='right' src="https://i.gifer.com/3odR.gif" width="230"/>
 
 <h3> 👨🏻•💻 About Me </h3>
 
