@@ -1,6 +1,6 @@
 ### Hi there 👋<h2> I'm Lucas</h2>
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<img align='right' src="https://media0.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.giff" width="230">
 
 <h3> 👨🏻•💻 About Me </h3>
 
@@ -23,7 +23,7 @@
 - 💻 &nbsp; Java | C# 
 
 - 🌐 &nbsp; HTML | CSS | JavaScript | ReactJS | NodeJs
-- 
+
 - 🛢 &nbsp; SQLite | PostgreSQL
 <!--
 
