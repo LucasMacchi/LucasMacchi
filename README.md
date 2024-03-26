@@ -22,9 +22,9 @@
 
 - 💻 &nbsp; Java | C# 
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | ReactJS | NodeJs
+- 🌐 &nbsp; HTML | CSS | JavaScript | Typescript | ReactJS | NodeJs
 
-- 🛢 &nbsp; SQLite | PostgreSQL
+- 🛢 &nbsp; SQLite | PostgreSQL | MongoDB
 <!--
 
 - 🔧 &nbsp; Git | Markdown | Selenium | Tidyverse
@@ -37,7 +37,7 @@
 
 <h3>🛠 To Learn</h3>
 
-- 🔧 &nbsp; TypeScript
+- 🔧 &nbsp; Next.JS
 
 <hr>
 
