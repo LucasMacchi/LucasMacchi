@@ -22,7 +22,7 @@
 
 - 💻 &nbsp; Java | C# 
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Typescript | ReactJS | NodeJs
+- 🌐 &nbsp; HTML | CSS | JavaScript | Typescript | ReactJS | NodeJs | Angular | Material UI
 
 - 🛢 &nbsp; SQLite | PostgreSQL | MongoDB
 <!--
