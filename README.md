@@ -6,14 +6,13 @@
 
 
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+I am a Full Stack Web Programmer with extensive knowledge in React, Node, Javascript and Typescript, in addition to having experience in teamwork using SCRUM and other tools. I am practical and hard-working, seeking to finish all the tasks I have pending in a timely manner, in addition to suggesting changes or improvements to the project. I am constantly expanding my knowledge and incorporating more experience with other tools.
 
-- 🎓 &nbsp; Studying software developer and web developer.
+🖥️What can I do?
+My code is clean and efficient, with a high focus on security. As a programmer, I have to not only create code that meets the company's objectives, but also make it as efficient and secure as possible, such as using encryption and user verifiers. To all this we will add a user interface that is simple and intuitive for the user.
 
-- 🌱 &nbsp; Learning about web technologies.
-
-- ✍️ &nbsp; Pursuing Web Development as a living and hobbie.
-
+🧠How do I work?
+"A company is only as good as the people who work in it." Teamwork and communication are essential for the success of any project in our area, as is being able to resolve problems quickly and effectively.
 
 
 <h3>🛠 Tech Stack</h3>
