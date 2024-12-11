@@ -21,9 +21,9 @@ My code is clean and efficient, with a high focus on security. As a programmer, 
 
 - 💻 &nbsp; Java | C# 
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Typescript | ReactJS | NodeJs | Angular | Material UI
+- 🌐 &nbsp; HTML | CSS | JavaScript | Typescript | ReactJS | NodeJs | Angular | Material UI | Next.JS
 
-- 🛢 &nbsp; SQLite | PostgreSQL | MongoDB
+- 🛢 &nbsp; SQLite | PostgreSQL | MongoDB | SQLServer
 <!--
 
 - 🔧 &nbsp; Git | Markdown | Selenium | Tidyverse
@@ -36,7 +36,7 @@ My code is clean and efficient, with a high focus on security. As a programmer, 
 
 <h3>🛠 To Learn</h3>
 
-- 🔧 &nbsp; Next.JS
+- 🔧 &nbsp; Springboot and High Level Java
 
 <hr>
 
